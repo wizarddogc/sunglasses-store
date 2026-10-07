@@ -10,6 +10,10 @@ python3 -m http.server 8080
 
 Visit http://localhost:8080
 
+## Live
+
+https://sunglasses-store-theta.vercel.app
+
 ## Motion features
 
 - Loader with accent scribble + count pulse
@@ -25,5 +29,5 @@ Visit http://localhost:8080
 
 ## Files
 
-- `index.html` — full site (HTML, CSS, JS)
+- `index.html` — full site (HTML, CSS, JS inline)
 - `vercel.json` — clean URLs
